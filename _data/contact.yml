@@ -1,30 +1,19 @@
 #  The contact options.
 
--
-  type: github
-  icon: 'fab fa-github'
--
-  type: twitter
-  icon: 'fab fa-twitter'
--
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
--
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
 
-# Uncomment and complete the url below to enable more contact options
-# -
-#   type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your mastodon account page
-# -
-#   type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
-# -
-#   type: stack-overflow
-#   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
+- type: facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/dhrubo.music/" 
+
+- type: instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/dhrubo_moy/" 
+
+- type: youtube
+  icon: "fab fa-youtube"
+  url: "https://www.youtube.com/dhrubo" 
+
+- type: linkedin
+  icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
+  url: "https://www.linkedin.com/in/dhrubomoy-das-gupta-18b2709a/" 
+
