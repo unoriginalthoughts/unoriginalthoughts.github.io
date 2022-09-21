@@ -78,7 +78,7 @@ Four persons have fallen into four circular traps<br />
 And Lalon has fallen into a deep paradox<br />
 
 ## Song
-Unfortunately this couldn't find many version of this rare spiritual song by Fakir Lalon Shah. Posting one version I found on youtube. I hope I will sing and upload the song in future.
+Unfortunately this couldn't find many version of this rare spiritual song by Fakir Lalon Shah. Here is a cover of the song I tried to sing with many mistakes. 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4s038wrh6ZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EKiKfeVgL10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
